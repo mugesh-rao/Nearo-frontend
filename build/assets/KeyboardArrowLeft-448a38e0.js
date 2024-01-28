@@ -1,0 +1,1 @@
+import{ad as r,ae as a,j as t}from"./index-70997a97.js";var e={},o=a;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,d=o(r()),f=t,l=(0,d.default)((0,f.jsx)("path",{d:"M15.41 16.59 10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"}),"KeyboardArrowLeft");u=e.default=l;export{u as d};
